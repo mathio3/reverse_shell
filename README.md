@@ -1,12 +1,12 @@
 # reverse shell friendly
 simple tool to reverse shell using python for Linux & Windows
-by :mathio.dz
+by : mathio.dz
 
 ## Prerequisites
 
 Python 2.7
 
-###Usage:
+### Usage:
 ### Attacker
 
 ```
