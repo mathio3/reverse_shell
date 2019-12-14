@@ -1,4 +1,4 @@
-#!/bin/puthon2
+#!/bin/python2
 import sys
 import os
 import socket
